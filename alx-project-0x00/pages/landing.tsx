@@ -10,6 +10,7 @@ const Landing: React.FC = () => {
         <Button title="Login" styles="text-sm rounded-sm px-4 py-2" />
         <Button title="Sign Up" styles="text-base rounded-md px-6 py-3" />
         <Button title="Get Started" styles="text-lg rounded-full px-8 py-4" />
+        <Button title="Sign Out" styles="text-md rounded-lg px-8 py-4" />
       </div>
     </div>
   )
